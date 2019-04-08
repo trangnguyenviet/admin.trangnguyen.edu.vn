@@ -1,0 +1,45 @@
+{
+  "name": "admin",
+  "description": "admin Trang Nguyen",
+  "main": "index.php",
+  "authors": [
+    "tanmv"
+  ],
+  "license": "MVT",
+  "homepage": "http://admin.trangnguyen.edu.vn",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "plugins",
+    "test*"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "angular": "1.6.5",
+    "jquery.cookie": "jquery-cookie#^1.4.1",
+    "owl.carousel": "^2.2.0",
+    "moment": "^2.16.0",
+    "smartmenus": "^1.0.1",
+    "nanoscroller": "^0.8.7",
+    "jsoneditor": "^5.5.10",
+    "bootstrap-datepicker": "^1.6.4",
+    "bootbox.js": "bootbox#^4.4.0",
+    "angular-paging": "^2.2.2",
+    "ng-tags-input": "3.1.1",
+    "ng-ckeditor": "^0.2.1",
+    "angular-material": "^1.1.1",
+    "bootstrap-treeview": "^1.2.0",
+    "angular-bootstrap-nav-tree": "*",
+    "js-xlsx": "^0.11.7",
+    "bootstrap-daterangepicker": "^2.1.25",
+    "datatables.net": "^1.10.15",
+    "iCheck": "^1.0.2",
+    "bootstrap-tagsinput": "^0.8.0",
+    "jquery-slimscroll": "^1.3.8",
+    "file-saver": "^1.3.4"
+  },
+  "devDependencies": {
+    "qunit": "^2.0.1"
+  }
+}

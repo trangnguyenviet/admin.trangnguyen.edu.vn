@@ -1,0 +1,15 @@
+*
+!/.gitignore
+!/index.html
+!/video/index.html
+!/images/index.html
+!/image_game/index.html
+!/game_flash/index.html
+!/flash/index.html
+!/files/index.html
+!/audio/index.html
+!/_thumbs/index.html
+!/_thumbs/Video/index.html
+!/_thumbs/Thumb_News/index.html
+!/_thumbs/Images/index.html
+!/_thumbs/Image Game/index.html
