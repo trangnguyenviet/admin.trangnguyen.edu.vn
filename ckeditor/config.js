@@ -24,10 +24,10 @@ CKEDITOR.editorConfig = function(config) {
 //	config.extraPlugins = 'googledocs';
 //	config.extraPlugins = 'fixed';
 	
-	config.filebrowserBrowseUrl = '/browser/browse.php';
-	config.filebrowserImageBrowseUrl = '/browser/browse.php?type=Images,Audio,Video';
-	config.filebrowserUploadUrl = '/uploader/upload.php';
-	config.filebrowserImageUploadUrl = '/uploader/upload.php?type=Images,Audio';
+	//config.filebrowserBrowseUrl = '/browser/browse.php';
+	//config.filebrowserImageBrowseUrl = '/browser/browse.php?type=Images,Audio,Video';
+	//config.filebrowserUploadUrl = '/uploader/upload.php';
+	//config.filebrowserImageUploadUrl = '/uploader/upload.php?type=Images,Audio';
 	config.filebrowserWindowWidth = '900';
 	config.filebrowserWindowHeight = '400';
 	config.filebrowserBrowseUrl = '/ckfinder/ckfinder.html?Type=Files';
