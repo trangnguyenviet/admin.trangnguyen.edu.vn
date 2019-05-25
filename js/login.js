@@ -82,7 +82,7 @@ $(function(){
 					//return true;
 				}
 				else{
-					grecaptcha.reset();
+					if(window.grecaptcha) grecaptcha.reset();
 					lb_msg.show().text(data.message);
 					pass.val('');
 					user.focus();

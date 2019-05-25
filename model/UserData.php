@@ -1,5 +1,5 @@
 <?php
-//include 'ModelBase.php';
+require_once 'ModelBase.php';
 
 class UserData extends ModelBase{
 	protected static $collection_name = 'users';

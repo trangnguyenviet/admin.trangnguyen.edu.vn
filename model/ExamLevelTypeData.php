@@ -1,5 +1,5 @@
 <?php
-//include 'ModelBase.php';
+require_once 'ModelBase.php';
 
 class ExamLevelTypeData extends ModelBase {
 	protected static $collection_name = 'exam_level_types';

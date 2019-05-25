@@ -1,5 +1,5 @@
 <?php
-//include 'ModelBase.php';
+require_once 'ModelBase.php';
 
 class ScoreData extends ModelBase{
 	protected static $collection_name = 'scores';

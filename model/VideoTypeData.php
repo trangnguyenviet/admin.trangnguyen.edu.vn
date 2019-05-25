@@ -1,5 +1,5 @@
 <?php
-//include 'ModelBase.php';
+require_once 'ModelBase.php';
 
 class VideoTypeData extends ModelBase{
 	protected static $collection_name = 'video_types';

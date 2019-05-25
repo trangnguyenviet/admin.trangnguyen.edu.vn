@@ -1,5 +1,5 @@
 <?php
-//include 'ModelBase.php';
+require_once 'ModelBase.php';
 
 class LessonTypeData extends ModelBase{
 	protected static $collection_name = 'lesson_types';
