@@ -1442,7 +1442,7 @@ function ConfirmDeleteScore(id, user_id, round_id) {
 			if(result) {
 				//kiểm tra bài thi
 				$.ajax({
-					url: "https://logs.trangnguyen.edu.vn/history/" + user_id + '/' + round_id,
+					url: "https://log.trangnguyen.edu.vn/history/" + user_id + '/' + round_id,
 					type: 'GET',
 					dataType: "json",
 					success: function (data) {
